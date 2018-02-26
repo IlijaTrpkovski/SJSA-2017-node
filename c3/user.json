@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Pero",
+        "lastname": "Perovski",
+        "email": "pero@perovski.com",
+        "password": "pero pero pero"
+    },
+    {
+        "name": "Janko",
+        "lastname": "Jankovski",
+        "email": "janko@kankovski.com",
+        "password": "janko janko janko"
+    },
+    {
+        "name": "Done",
+        "lastname": "Donevski",
+        "email": "done@donevski.com",
+        "password": "done done done"
+    },
+    {
+        "name": "Pero",
+        "lastname": "Perovski",
+        "email": "pero@perovski.com",
+        "password": "pero pero pero"
+    },
+    {
+        "name": "Pero",
+        "lastname": "Perovski",
+        "email": "pero@perovski.com",
+        "password": "pero pero pero"
+    }
+]
