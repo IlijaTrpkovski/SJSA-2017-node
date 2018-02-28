@@ -21,17 +21,21 @@ var http = require("http");
 //     })
 //   })
 
-http.createServer(function(request, response) { // req, res | r, w
+// http.createServer(function(request, response) { // req, res | r, w
     // console.log(request);
     // response.writeHead(200,'OK');
     // response.end('Hello World!');
 
-    if(request.url === '/hello'){
-        response.writeHead(200,'OK');
-        response.end('Hello World!');
-    } else {
-        response.writeHead(404,'Not Found');
-        response.end('Page not found...');
-    }
-}).listen(3000);
+//     if(request.url === '/hello'){
+//         response.writeHead(200,'OK');
+//         response.end('Hello World!');
+//     } else {
+//         response.writeHead(404,'Not Found');
+//         response.end('Page not found...');
+//     }
+// }).listen(3000);
+
+
+
+
 
